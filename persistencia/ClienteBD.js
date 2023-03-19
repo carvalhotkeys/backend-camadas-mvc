@@ -7,9 +7,9 @@ export default claas ClienteBD{
         if (cliente instanceof Cliente){
             const conexao = await conectar();
             const sql = "INSERT INTO cliente(cpf,nome,endereco,bairro,cidade,uf,telefone,email,instrumento) VALUES(?,?,?,?,?,?,?,?,?)";
-            const valores = [cliente.cpf, cliente.nome, cliente.endereco, cliente.bairro, cliente.cidade, cliente.uf, cliente.telefone, cliente.email];
+            const valores = [cliente.cpf, cliente.nome, cliente.endereco, cliente.bairro, cliente.cidade, cliente.uf, cliente.telefone, cliente.email, cliente.instrumento];
             await conexao.query(sql,valores);
-        }
+        }cliente
 
     }
 
