@@ -2,13 +2,13 @@ import Integrante from "./Modelo/Integrante.js";
 import express from 'express';
 import rotaIntegrante from "./Rotas/rotaIntegrante.js";
 
-let objIntegrante = new Integrante('29225447850',
+/*let objIntegrante = new Integrante('29225447850',
                                     'Maria Fernanda Mendes',
-                                    'Rua Alfeu Ferruzi Negri 70',
-                                    'Valencia ll',
-                                    'Alvares Machado',
+                                    'Rua fernando ferreira 70',
+                                    'Centro',
+                                    'Rosana',
                                     'SP',
-                                    '18997733011',
+                                    '11997004522',
                                     'mariafernanda22@gmail.com',
                                     'BATERIA');
 
