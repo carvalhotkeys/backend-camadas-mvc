@@ -1,0 +1,26 @@
+{
+  "name": "backend-camadas-mvc",
+  "version": "1.0.0",
+  "description": "Camadas MVC e REST API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carvalhotkeys/backend-camadas-mvc.git"
+  },
+  "keywords": [
+    "camadas",
+    "mvc",
+    "restapi"
+  ],
+  "author": "Cristiano Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carvalhotkeys/backend-camadas-mvc/issues"
+  },
+  "homepage": "https://github.com/carvalhotkeys/backend-camadas-mvc#readme"
+}
