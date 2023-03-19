@@ -26,7 +26,7 @@ Usando Metodo POST para cadastrar um novo integrante na DATABASE:
 <br>
 
 PASSO 4
-Você pode usar outros metodos - GET = consulta integrante banco, POST = adiciona integrante banco, PUT = atualiza integrante banco e DELETE = deleta integrante banco:
+Você pode usar outros metodos - GET = consulta integrante banco, POST = adiciona integrante banco, <br>PUT = atualiza integrante banco e DELETE = deleta integrante banco:
 
 ![4 final test](https://user-images.githubusercontent.com/127784850/226196395-46f3de34-ec73-450a-891c-02db5aa9b75d.png)
 
