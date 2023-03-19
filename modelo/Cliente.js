@@ -11,7 +11,7 @@ export default class Cliente{
     constructor(nome, cpf, telefone, endereco, bairro, cidade, uf, email){
         this.#nome = nome;
         this.#cpf = cpf;
-        this.#telefone = telefone;    // controi a classe cliente fazendo o atributo privado receber a variavel desejada ex #nome = nome
+        this.#telefone = telefone;    // constroi a classe cliente fazendo o atributo privado receber a variavel desejada ex #nome = nome
         this.#endereco = endereco;
         this.#bairro = bairro;
         this.#cidade = cidade;
