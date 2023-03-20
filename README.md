@@ -4,7 +4,9 @@
  
  Aplicativos usados: <br>
  [POSTMAN](https://www.postman.com/downloads/) <br>
-[XAMPP](https://www.apachefriends.org/pt_br/index.html)
+[XAMPP](https://www.apachefriends.org/pt_br/index.html) <br>
+apos ligar o XAMPP - Apache e MySQL entre em para configurar o BANCO:<br>
+http://localhost/phpmyadmin/
  
 ![image](https://user-images.githubusercontent.com/127784850/226195862-c3103393-9e58-43b6-974f-6f7c8453a44f.png)
 
