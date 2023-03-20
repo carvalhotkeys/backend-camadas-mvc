@@ -1,5 +1,5 @@
 # backend-camadas-mvc
- Criando interação com o Banco de Dados <br>
+ Criando interação com o Banco de Dados, METODOS <a href="#POST">POST,</a><a href="#PUT">PUT,</a><a href="#GET">GET e </a><a href="#DELETE">DELETE</a><br>
  Criando Camadas Padrão MVC - MODELO / VISÃO / CONTROLE <br>
  
  Aplicativos usados: <br>
@@ -51,19 +51,19 @@ Criando um novo OBJETO Clinte, usuario ou integrante como preferir e seus atribu
 ![3criando BANCO DE DADOS e ADD ATRIBUTOS](https://user-images.githubusercontent.com/127784850/226196807-775541a1-d27d-431b-9da9-80ca0ec92a23.png)
 
 METODOS POST, PUT, GET e DELETE: <br>
-POST : GRAVA NOVO INTEGRANTE NO BANCO DE DADOS <br>
+<h3 id="POST">POST:</h3> GRAVA NOVO INTEGRANTE NO BANCO DE DADOS <br>
 
 ![memtodoPOST](https://user-images.githubusercontent.com/127784850/226214299-6b2bf5f7-6393-4c3f-ba97-aa9ae61bae42.png)
 
-PUT : ATUALIZA INTEGRANDE NO BANCO DE DADOS  <br>
+<h3 id="PUT">PUT:</h3> ATUALIZA INTEGRANDE NO BANCO DE DADOS  <br>
 
 ![metodoPUT](https://user-images.githubusercontent.com/127784850/226214388-620d9e02-bb18-4051-90f9-be748fec7b1c.png)
 
-GET : CONSULTA TODOS INTEGRANTES DO BANCO DE DADOS <br>
+<h3 id="GET">GET:</h3> CONSULTA TODOS INTEGRANTES DO BANCO DE DADOS <br>
 
 ![metodoGET](https://user-images.githubusercontent.com/127784850/226214419-f22d2736-449a-41de-97e3-3a2b3583b87a.png)
 
-DELETE : DELETA UM INTEGRANTE NO BANCO DE DADOS <br>
+<h3 id="DELETE">DELETE:</h3> DELETA UM INTEGRANTE NO BANCO DE DADOS <br>
 
 ![metodoDELETE](https://user-images.githubusercontent.com/127784850/226214489-87fbe5f3-51b5-4f0d-a6ff-f28693822349.png)
 
